@@ -1,4 +1,4 @@
-package goeliza
+package eliza
 
 // A list of introduction sentences for ELIZA.
 var Introductions = []string{

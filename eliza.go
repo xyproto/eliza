@@ -1,4 +1,4 @@
-package goeliza
+package eliza
 
 import (
 	"fmt"
