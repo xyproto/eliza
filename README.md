@@ -1,4 +1,4 @@
-# eliza
+# Eliza [![GoDoc](https://godoc.org/github.com/xyproto/eliza?status.svg)](https://godoc.org/github.com/xyproto/eliza)
 
 `eliza` is an imlpementation of Eliza, for Go. It's a fork of [goeliza](https://github.com/kennysong/goeliza) by Kenny Song.
 
